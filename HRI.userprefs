@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Teststuff5.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Teststuff5.cs" Line="98" Column="11" />
+      <File FileName="Assets\Scripts\HelpingHand.cs" Line="27" Column="3" />
+      <File FileName="Assets\Scripts\BasketTriggerScript.cs" Line="7" Column="4" />
+      <File FileName="Assets\Scripts\Teststuff6.cs" Line="15" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
